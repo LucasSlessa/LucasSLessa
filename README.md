@@ -5,8 +5,19 @@
 - 📫 How to reach me: lessalucas1102@gmail.com
 
 - ## Hi there 👋, I'm Lucas Lessa, Future Computer Engineer."
+<details>
+  <summary>👨‍💻 More about me</summary>
 
-- <div style="display: inline_block"><br>
+  - 💬 I am 22 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, java, Machine Learning and ESP32 MicroController. I'm also a Green Belt Since 2023, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+
+  - ⚡Hi there! 👋 My name is Lucas Lessa. I'm a computer engineering student with a passion for fitness and literature. I enjoy hitting the gym regularly to stay healthy and active. When it comes to reading, my favorite book is "Rich Dad Poor Dad," which has had a profound impact on my perspective on finances and life in general.
+
+I believe that our personal interests play a crucial role in shaping who we are and how we approach challenges. They not only provide us with moments of joy and relaxation but also contribute to a more refined perception of things around us.
+
+Let's connect and share our passions! \o/
+</details>
+
+ <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
