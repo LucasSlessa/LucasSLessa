@@ -15,7 +15,9 @@
 I believe that our personal interests play a crucial role in shaping who we are and how we approach challenges. They not only provide us with moments of joy and relaxation but also contribute to a more refined perception of things around us.
 
 Let's connect and share our passions! \o/
-![ImDoingMyPartSeriousGIF (2)](https://github.com/LucasSlessa/LucasSLessa/assets/143228674/acbfbdbc-eb0e-4517-9964-d2ab67844e2d)
+![TrustMeGIF](https://github.com/LucasSlessa/LucasSLessa/assets/143228674/47121aed-111b-4d29-9d8c-ae3c7a09f166)
+
+
 
 
 
