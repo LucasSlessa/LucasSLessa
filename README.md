@@ -10,11 +10,13 @@
 
   - 💬 I am 22 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, java, Machine Learning and ESP32 MicroController. I'm also a Green Belt Since 2023, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
 
-  - ⚡Hi there! 👋 My name is Lucas Lessa. I'm a computer engineering student with a passion for fitness and literature. I enjoy hitting the gym regularly to stay healthy and active. When it comes to reading, my favorite book is "Rich Dad Poor Dad," which has had a profound impact on my perspective on finances and life in general.
+  - I'm a computer engineering student with a passion for fitness and literature. I enjoy hitting the gym regularly to stay healthy and active. When it comes to reading, my favorite book is "Rich Dad Poor Dad," which has had a profound impact on my perspective on finances and life in general.
 
 I believe that our personal interests play a crucial role in shaping who we are and how we approach challenges. They not only provide us with moments of joy and relaxation but also contribute to a more refined perception of things around us.
 
 Let's connect and share our passions! \o/
+![SoExcited~GIF](https://github.com/LucasSlessa/LucasSLessa/assets/143228674/77a96c9f-7db3-41ef-879e-a2d1ccfd641a)
+
 
 
 </details>
