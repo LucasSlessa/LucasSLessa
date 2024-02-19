@@ -52,8 +52,11 @@ Let's connect and share our passions! \o/
   
 </div>
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://github.com/LucasSlessa/LucasSLessa/assets/143228674/6f00eb30-7f61-4cc2-b908-5586e2d01ad9" alt="Imagem">
+  
 </p>
+![Lofi Music Lofiartwork GIF - Lofi Music Lofiartwork Lofi Art - Discover   Share GIFs](https://github.com/LucasSlessa/LucasSLessa/assets/143228674/6f00eb30-7f61-4cc2-b908-5586e2d01ad9)
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uthjsiowjtmqvklwammgma4mja&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
