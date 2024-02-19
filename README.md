@@ -15,6 +15,8 @@
 I believe that our personal interests play a crucial role in shaping who we are and how we approach challenges. They not only provide us with moments of joy and relaxation but also contribute to a more refined perception of things around us.
 
 Let's connect and share our passions! \o/
+
+
 </details>
 
  <div style="display: inline_block"><br>
