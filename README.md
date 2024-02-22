@@ -44,7 +44,7 @@ Let's connect and share our passions! \o/
 -  -  -  -  -  -
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSlessa&show_icons=true&theme=gotham)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSlessa&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSlessa&show_icons=true&theme=gotham)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSlessa&layout=compact&theme=radical&bg_color=10,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
  
 <div> 
   <a href="https://www.youtube.com/channel/UClhUD6IsF2npIu5JHDwsAGw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
