@@ -4,13 +4,13 @@
 - 🤔 I’m looking for jobs on my area.
 - 📫 How to reach me: lessalucas1102@gmail.com
 
-- ## Hi there 👋, I'm Lucas Lessa, Future Computer Engineer."
+- ## Hi there 👋, I'm Lucas Lessa,  Computer Engineer."
 <details>
   <summary>👨‍💻 More about me</summary>
 
   - 💬 I am 22 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, java, Machine Learning and ESP32 MicroController. I'm also a Green Belt Since 2023, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
 
-  - I'm a computer engineering student with a passion for fitness and literature. I enjoy hitting the gym regularly to stay healthy and active. When it comes to reading, my favorite book is "Rich Dad Poor Dad," which has had a profound impact on my perspective on finances and life in general.
+  - I'm a computer engineering  with a passion for fitness and literature. I enjoy hitting the gym regularly to stay healthy and active. When it comes to reading, my favorite book is "Rich Dad Poor Dad," which has had a profound impact on my perspective on finances and life in general.
 
 I believe that our personal interests play a crucial role in shaping who we are and how we approach challenges. They not only provide us with moments of joy and relaxation but also contribute to a more refined perception of things around us.
 
