@@ -32,8 +32,7 @@ Sou Engenheiro da Computação com experiência em desenvolvimento de software, 
 </div>
 
 ## Estatísticas
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSlessa&show_icons=true&theme=gotham)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSlessa&layout=compact&theme=radical&bg_color=10,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSlessa&show_icons=true&theme=gotham)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSlessa&layout=compact&theme=radical&bg_color=10,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)
 
 ## Contato
 - Email: [lessalucas1102@gmail.com](mailto:lessalucas1102@gmail.com)  
