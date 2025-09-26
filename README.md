@@ -37,6 +37,6 @@ Sou Engenheiro da Computação com experiência em desenvolvimento de software, 
 ## Contato
 - Email: [lessalucas1102@gmail.com](mailto:lessalucas1102@gmail.com)  
 - LinkedIn: [linkedin.com/in/lucas-lessa-engcomp](https://www.linkedin.com/in/lucas-lessa-engcomp/)  
-- Portfólio: [lucaslessa.alutechnology.tech](https://lucaslessa.alutechnology.tech)  
+- Portfólio: [lucaslessa.alutechnology.tech](https://lucasslessa.github.io/portifolioweb/)  
 - YouTube: [Canal](https://www.youtube.com/channel/UClhUD6IsF2npIu5JHDwsAGw)  
 - Instagram: [@lucas_lessa_](https://www.instagram.com/lucas_lessa_/)
